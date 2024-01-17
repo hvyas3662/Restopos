@@ -1,2 +1,2 @@
 ## RestoPos
-a restorent order taking system
+A restaurant order taking system
