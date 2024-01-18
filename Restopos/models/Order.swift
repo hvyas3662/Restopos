@@ -1,6 +1,6 @@
 import Foundation
 
-class FoodOrder {
+class Order {
     
     let id: UUID;
     let orderName:String;

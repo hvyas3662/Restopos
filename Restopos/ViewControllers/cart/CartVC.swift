@@ -1,6 +1,6 @@
 import UIKit
 
-class CartVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class CartVC: BaseViewController, UITableViewDelegate, UITableViewDataSource {
 
     // Outlets
     @IBOutlet var amountLabel: UILabel!
@@ -116,4 +116,5 @@ class CartVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
     deinit{
         NotificationCenter.default.removeObserver(self)
     }
+
 }

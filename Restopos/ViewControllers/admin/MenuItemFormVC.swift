@@ -1,6 +1,6 @@
 import UIKit
 
-class MenuItemFormVC: UIViewController {
+class MenuItemFormVC: BaseViewController {
 
     
     var id: String!

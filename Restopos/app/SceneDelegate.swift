@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  RestaurantApp
-//
-//  Created by param  on 2023-08-09.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
