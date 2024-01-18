@@ -1,6 +1,3 @@
-//Name: Paramveer
-//Description: Controller for menu item details
-
 import UIKit
 
 class MenuTableViewCell: UITableViewCell {

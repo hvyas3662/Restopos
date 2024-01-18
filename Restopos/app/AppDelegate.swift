@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  RestaurantApp
-//
-//  Created by param  on 2023-08-09.
-//
-
 import UIKit
 import CoreData
 

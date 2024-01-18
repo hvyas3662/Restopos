@@ -1,6 +1,3 @@
-//Name: Arin
-//Description: controller for Cart view
-
 import UIKit
 
 class CartVC: UIViewController, UITableViewDelegate, UITableViewDataSource {

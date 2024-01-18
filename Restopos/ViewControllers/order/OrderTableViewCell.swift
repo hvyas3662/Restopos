@@ -1,6 +1,3 @@
-//Name: Arin
-//Description: View cell for each item in ordeer taken from the cart
-
 import UIKit
 
 class OrderTableViewCell: UITableViewCell {

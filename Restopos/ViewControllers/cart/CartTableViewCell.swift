@@ -1,6 +1,3 @@
-//Name: Arin
-//Description: Controller for each cell in the cart table view
-
 import UIKit
 
 class CartTableViewCell: UITableViewCell {

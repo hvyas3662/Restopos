@@ -1,6 +1,3 @@
-//Author: Vpashan
-//Description: view cells for menu items for admins once logged in
-
 import UIKit
 
 class DashboardTableViewCell: UITableViewCell {

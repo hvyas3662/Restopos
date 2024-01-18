@@ -1,6 +1,3 @@
-//Author: Vpahsan
-//Description: Controller for handling the form for creating a new menu item only accessible to admins
-
 import UIKit
 
 class MenuItemFormVC: UIViewController {

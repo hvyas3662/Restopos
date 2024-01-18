@@ -1,6 +1,3 @@
-//Author: Paramverr
-//Description: View controller for Menu Items and details associated with them
-
 import UIKit
 
 class MenuListVC: UIViewController, UITableViewDelegate, UITableViewDataSource {

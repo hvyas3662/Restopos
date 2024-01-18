@@ -1,6 +1,3 @@
-//Author: Paramveer
-//Description: controller for item details
-
 import Foundation
 import UIKit
 

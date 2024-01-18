@@ -1,6 +1,3 @@
-//Name: Arin
-//Description: handler for order view
-
 import UIKit
 
 class OrderVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
